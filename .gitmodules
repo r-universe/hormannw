@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "argus"]
 	path = argus
 	url = https://github.com/cran/argus
-	shallow = true
-	registered = true
 [submodule "OptionPricing"]
 	path = OptionPricing
 	url = https://github.com/cran/OptionPricing
-	shallow = true
-	registered = true
 [submodule "riskSimul"]
 	path = riskSimul
 	url = https://github.com/cran/riskSimul
-	shallow = true
-	registered = true
